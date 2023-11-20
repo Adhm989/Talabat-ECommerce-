@@ -10,3 +10,15 @@ E:\projects\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
 E:\projects\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
 E:\projects\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
 E:\projects\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\My_Github\Talabat-ECommerce-\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

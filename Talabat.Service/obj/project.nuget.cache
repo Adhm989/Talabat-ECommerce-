@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VCtbGEo/rA8zROOP304nj12zkr1FfOIa+k1x+KdJ6xP6O93QnCGFKauBmEoAUyH8BZpR9u23MLYpcnPJlUiYw==",
+  "dgSpecHash": "5T5QPhRF8z9Kh8/OT0DVFxNDaWHyB552pkXhSfTf6WJ74vvSyOUN3HuD0Db30GtSvy+/S1u7tw+bhRtAdRHrUQ==",
   "success": true,
-  "projectFilePath": "E:\\projects\\Talabat.Solution\\Talabat.Service\\Talabat.Service.csproj",
+  "projectFilePath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Service\\Talabat.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.13\\microsoft.aspnetcore.cryptography.internal.6.0.13.nupkg.sha512",

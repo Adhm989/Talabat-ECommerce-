@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\Talabat.Solution\\Talabat.Api\\Talabat.Api.csproj",
+      "projectUniqueName": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\Talabat.Api.csproj",
       "projectName": "Talabat.Api",
-      "projectPath": "E:\\projects\\Talabat.Solution\\Talabat.Api\\Talabat.Api.csproj",
+      "projectPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\Talabat.Api.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\Talabat.Solution\\Talabat.Api\\obj\\",
+      "outputPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2992,11 +2992,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\projects\\Talabat.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
-              "projectPath": "E:\\projects\\Talabat.Solution\\Talabat.Repository\\Talabat.Repository.csproj"
+            "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Repository\\Talabat.Repository.csproj": {
+              "projectPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Repository\\Talabat.Repository.csproj"
             },
-            "E:\\projects\\Talabat.Solution\\Talabat.Service\\Talabat.Service.csproj": {
-              "projectPath": "E:\\projects\\Talabat.Solution\\Talabat.Service\\Talabat.Service.csproj"
+            "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Service\\Talabat.Service.csproj": {
+              "projectPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Service\\Talabat.Service.csproj"
             }
           }
         }

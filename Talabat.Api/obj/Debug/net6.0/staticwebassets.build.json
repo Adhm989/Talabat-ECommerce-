@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "04ty50adPKSWMuCsJRDLBGzETorYO5MnIosjx0TA6b0=",
+  "Hash": "iG/KnIR1tF9/xxJOdfjigN7SsFPNDtG3x5ipjSZ7LLU=",
   "Source": "Talabat.Api",
   "BasePath": "_content/Talabat.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabat.Api\\wwwroot",
       "Source": "Talabat.Api",
-      "ContentRoot": "E:\\projects\\Talabat.Solution\\Talabat.Api\\wwwroot\\",
+      "ContentRoot": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\wwwroot\\",
       "BasePath": "_content/Talabat.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\projects\\Talabat.Solution\\Talabat.Api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "Talabat.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\projects\\Talabat.Solution\\Talabat.Api\\wwwroot\\",
+      "ContentRoot": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\wwwroot\\",
       "BasePath": "_content/Talabat.Api",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",

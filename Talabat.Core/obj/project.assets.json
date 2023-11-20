@@ -1391,11 +1391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\Talabat.Solution\\Talabat.Core\\Talabat.Core.csproj",
+      "projectUniqueName": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Core\\Talabat.Core.csproj",
       "projectName": "Talabat.Core",
-      "projectPath": "E:\\projects\\Talabat.Solution\\Talabat.Core\\Talabat.Core.csproj",
+      "projectPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Core\\Talabat.Core.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\Talabat.Solution\\Talabat.Core\\obj\\",
+      "outputPath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZncQOEFt13fKjrFmLpLOeJlvLM0k21ap63oRAAYHZT5tr92XkrX6h15Boo2uVjI2cNbG3yL0mWp3zGXCKn/eQg==",
+  "dgSpecHash": "RXGilxelp72qYjZOqN6DcFs8+KYOlaD11xSDzFqKlH1RHlE7FVuMBv0i/er0PRLDe5aw6XFo7jUoE2uq10MqLg==",
   "success": true,
-  "projectFilePath": "E:\\projects\\Talabat.Solution\\Talabat.Api\\Talabat.Api.csproj",
+  "projectFilePath": "E:\\My_Github\\Talabat-ECommerce-\\Talabat.Api\\Talabat.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laptop\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Laptop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
